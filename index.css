@@ -1,0 +1,48 @@
+.header
+{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right,orange,yellow);
+    margin-top: 10px;
+}
+
+.img1
+{
+    border-radius: 200px;
+}
+
+.name
+{
+    display: flex;
+    justify-content: center;
+    font-family: 'Caveat', cursive;
+}
+
+a
+{
+    text-decoration: none;
+    color:white;
+    padding:10px;
+    font-family: 'Caveat',cursive;
+    font-size:x-large;
+}
+a:hover
+{
+    background-color: black;
+}
+
+.navigation
+{
+    text-align: right;
+    text-decoration:none;
+    margin-bottom:5px;
+    background-color:#353b40;
+}
+
+.card
+{
+    border: none;
+    width: 50%;
+    margin: auto;
+}
+
