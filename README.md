@@ -27,6 +27,7 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 - Created a user-friendly Streamlit interface that supports real-time news summarization and Q&A.
 - Integrated FAISS to support fast similarity search and multi-source context retrieval.
 - Combined LangChain with OpenAI to extract insights while keeping citations intact.
+
 **Outcome**: A working research assistant for journalists and analysts. Fully operational with live demo.
 
 ---
@@ -37,6 +38,7 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 - Built a medical chatbot using a 600-page domain-specific textbook as the knowledge base.
 - Used HuggingFace models for embedding generation and Pinecone for efficient vector search.
 - Developed a Q&A system powered by OpenAI’s GPT-4o and retrieved context.
+
 **Outcome**: Delivered accurate, explainable responses for healthcare queries with high contextual integrity.
 
 ---
@@ -47,6 +49,7 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 - Built a YOLOv5-based sign language detector with 71% mean average precision (mAP).
 - Expanded training data through augmentation and integrated multiple datasets.
 - Led an Agile workflow, including regular scrum meetings and progress reporting.
+
 **Outcome**: A Functional sign language recognition app with solid baseline performance.
 
 ---
