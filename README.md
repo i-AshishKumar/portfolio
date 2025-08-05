@@ -1,8 +1,11 @@
-## Education			       		
-- M.S., Applied Computer Science	| Dalhousie University (_June 2025_)	 			        		
-- B.Tech., Computer Scinece and Systems Engineering | Sree Vidyanikethan Engineering College (_June 2023_)
+## 📚 Education
+**M.S., Applied Computer Science**  
+Dalhousie University _(June 2025)_
 
-## Work Experience
+**B.Tech., Computer Science and Systems Engineering**  
+Sree Vidyanikethan Engineering College _(June 2023)_
+
+## 💼 Work Experience
 **Machine Learning & MLOps Intern @ DeepSense (_January 2025 - May 2025_)**
 - Developed computer vision ML models using PyTorch detecting 5+ marine species, achieving 72% accuracy
 - Fine-tuned open-source models on custom data to significantly boost detection accuracy across multiple marine species.
