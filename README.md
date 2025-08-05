@@ -21,8 +21,8 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 ## 🚀 Projects
 
 ### 1. AI-Powered News Research Tool  | [Live Demo](https://news-research-llm.streamlit.app/)
-**Technologies**: Python, OpenAI API, LangChain, Streamlit, FAISS, RAG  
-**Role & Contributions**:
+**Technologies**: Python, OpenAI API, LangChain, Streamlit, FAISS, RAG 
+
 - Designed a browser-based tool that processes news URLs and delivers grounded, contextual insights.
 - Created a user-friendly Streamlit interface that supports real-time news summarization and Q&A.
 - Integrated FAISS to support fast similarity search and multi-source context retrieval.
@@ -34,7 +34,7 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 
 ### 2. HealthBot LLM  | [GitHub](https://github.com/i-AshishKumar/HealthBot) 
 **Technologies**: Python, LangChain, OpenAI, HuggingFace, Pinecone, RAG  
-**Role & Contributions**:
+
 - Built a medical chatbot using a 600-page domain-specific textbook as the knowledge base.
 - Used HuggingFace models for embedding generation and Pinecone for efficient vector search.
 - Developed a Q&A system powered by OpenAI’s GPT-4o and retrieved context.
@@ -45,7 +45,7 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 
 ### 3. Sign Language Recognition System  | [GitHub](https://github.com/i-AshishKumar/Sign-Language-Recognition)
 **Technologies**: Python, OpenCV, TensorFlow, Keras, Google Colab  
-**Role & Contributions**:
+
 - Built a YOLOv5-based sign language detector with 71% mean average precision (mAP).
 - Expanded training data through augmentation and integrated multiple datasets.
 - Led an Agile workflow, including regular scrum meetings and progress reporting.
