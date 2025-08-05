@@ -5,6 +5,8 @@ Dalhousie University _(June 2025)_
 **B.Tech., Computer Science and Systems Engineering**  
 Sree Vidyanikethan Engineering College _(June 2023)_
 
+---
+
 ## 💼 Work Experience
 **Machine Learning & MLOps Intern @ DeepSense (_January 2025 - May 2025_)**
 - Developed computer vision ML models using PyTorch detecting 5+ marine species, achieving 72% accuracy
@@ -13,6 +15,10 @@ Sree Vidyanikethan Engineering College _(June 2023)_
 - Engineered batch processing pipelines integrating CVAT and Web ODM, effectively handling 500+images.
 - Reduced data processing pipeline runtime by 75% through optimized I/O caching and buffering.
 - Deployed production-ready containerized pipeline artifacts on AWS EC2, ensuring 100% accuracy and performance.
+
+---
+
+## 🚀 Projects
 
 ### 1. AI-Powered News Research Tool  | [Live Demo](https://news-research-llm.streamlit.app/)
 **Technologies**: Python, OpenAI API, LangChain, Streamlit, FAISS, RAG  
